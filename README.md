@@ -2,8 +2,8 @@
 Status serwera Fivem na Discordzie!
 
 
-https://i.imgur.com/7T8ljSN.png
-https://i.imgur.com/KDOSeu5.png
+![alt text]https://i.imgur.com/7T8ljSN.png
+![alt text]https://i.imgur.com/KDOSeu5.png
 
 
 
