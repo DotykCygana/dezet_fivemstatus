@@ -10,5 +10,5 @@ Wsparcie odnośnie bota dostaniesz na discordzie DBMJS Poland.
 Jest to discord wspierający początkujących developerów JS używających biblioteki Discord.js oraz użytkowników DBM'a
 
 Discord:
-https://dc.dbmjs.pl/
-https://discord.gg/nnrBGxdEJS
+##https://dc.dbmjs.pl/ 
+##https://discord.gg/nnrBGxdEJS
